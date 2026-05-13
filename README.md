@@ -1,8 +1,8 @@
 # caller-agent
 
-[\![Release](https://github.com/day0ops/caller-agent/actions/workflows/release.yml/badge.svg)](https://github.com/day0ops/caller-agent/actions/workflows/release.yml)
-[\![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[\![Image](https://img.shields.io/badge/registry-GAR-4285F4?logo=google-cloud)](https://console.cloud.google.com/artifacts/docker/field-engineering-apac/australia-southeast1/kasunt)
+[![Release](https://github.com/day0ops/caller-agent/actions/workflows/release.yml/badge.svg)](https://github.com/day0ops/caller-agent/actions/workflows/release.yml)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Image](https://img.shields.io/badge/registry-GAR-4285F4?logo=googlecloud)](https://console.cloud.google.com/artifacts/docker/field-engineering-apac/australia-southeast1/kasunt)
 
 FastAPI agent that orchestrates calls to downstream agents through [agentgateway](https://agentgateway.dev).
 
